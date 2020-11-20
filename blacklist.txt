@@ -1,0 +1,11 @@
+# Tik-Toc
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 musical.ly
+0.0.0.0 muscdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 mbga.jp
+0.0.0.0 mixi.jp
+0.0.0.0 mixch.tv
+0.0.0.0 lobi.co
