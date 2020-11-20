@@ -15,6 +15,8 @@ ff02::3 ip6-allhosts
 
 # Tik-Toc
 0.0.0.0 www.tiktok.com
+0.0.0.0 www.tiktok.com.edgesuite.net
+0.0.0.0 a2047.r.akamai.net
 0.0.0.0 https://ww.tiktok.com/en
 0.0.0.0 tiktokcdn.com
 0.0.0.0 musical.ly
