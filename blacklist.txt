@@ -15,6 +15,7 @@ ff02::3 ip6-allhosts
 
 # Tik-Toc
 0.0.0.0 tiktok.com
+0.0.0.0 https://ww.tiktok.com/en
 0.0.0.0 tiktokcdn.com
 0.0.0.0 musical.ly
 0.0.0.0 muscdn.com
