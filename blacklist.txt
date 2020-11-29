@@ -48,3 +48,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiktokcdn.com.wsdvs.com
 0.0.0.0 tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 tiktokv.com
+
+0.0.0.0 instagram.com
